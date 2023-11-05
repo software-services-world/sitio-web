@@ -17,6 +17,12 @@ p {
   color: #333333;
 }
 
+a:link {
+text-decoration: none;
+}
+
+
+
 .header {
   position:relative;
   text-align:center;
