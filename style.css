@@ -17,12 +17,6 @@ p {
   color: #333333;
 }
 
-a:link {
-text-decoration: none;
-}
-
-
-
 .header {
   position:relative;
   text-align:center;
@@ -49,6 +43,7 @@ text-decoration: none;
   justify-content: center;
   align-items: center;
   text-align: center;
+  text-decoration: none;
 }
 
 .waves {
